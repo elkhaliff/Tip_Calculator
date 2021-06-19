@@ -1,0 +1,4 @@
+# Project exclude paths
+/.gradle/
+/build/
+/Tip Calculator/task/build/
